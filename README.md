@@ -1,5 +1,5 @@
 # 20WebProjectsJS
 
-/Breakout-Game
+/Breakout-Game \n
 /Custom-Video-Player
 /Dom-Array-Methods
