@@ -17,5 +17,6 @@
 /New-Year-Countdown
 /Relaxer
 /Sortable-List
+/Speak-Number-Guessing-Game
 /Speed-Typer
 /Text-Speech-Reader
