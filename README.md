@@ -9,7 +9,7 @@
 
 
 ## Dom-Array-Methods
-<a href="https://chrisowensdev.github.io/20WebProjectsJS/Dom-Array-Methods/">Demo</a>
+<a href="https://chrisowensdev.github.io/20WebProjectsJS/DOM-Array-Methods/">Demo</a>
 
 ## Exchange-Rate-Calculator
 <a href="https://chrisowensdev.github.io/20WebProjectsJS/Exchange-Rate-Calculator/">Demo</a>
